@@ -19,6 +19,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "minimist": "^1.2.5",
-    "mocha": "^6.2.1"
+    "mocha": "^10.2.0"
   }
 }
